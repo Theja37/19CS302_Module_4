@@ -8,7 +8,7 @@ To write a C program to find minimum between three fraction numbers using condit
 3. Write program to find minimum numbers.
 4. Read the value using scanf.
 5. Ask the user to make an input.
-6. Print out the answer.
+6. Print out the answer
 7. End.
 
 ## Program:
